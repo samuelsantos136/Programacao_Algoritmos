@@ -1,2 +1,2 @@
-# Programacao_Algoritmos
+# Programacão e Algoritmos
  Repositório de Programação e Algoritmos.
